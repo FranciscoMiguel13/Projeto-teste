@@ -1,4 +1,4 @@
-import styles from './Frase1.css'
+import styles from './Frase.module.css'
 
 function Frase(){
 

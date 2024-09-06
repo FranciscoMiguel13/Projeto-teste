@@ -20,7 +20,7 @@ function App() {
       profissao="Programador" />
 
     </div>
-    <p></p>
+   
   );
 }
 
