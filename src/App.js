@@ -18,7 +18,7 @@ function App() {
       foto='https://via.placeholder.com/150' 
       idade="18" 
       profissao="Programador" />
-
+      <p></p>
     </div>
    
   );
