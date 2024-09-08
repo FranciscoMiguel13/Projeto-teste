@@ -1,3 +1,5 @@
+import Item from "./Item"
+
 function List(){
 
     return(
@@ -5,9 +7,8 @@ function List(){
         <div>
             <h1>Minha Lista</h1>
             <ul>
-                <li>Item 1</li>
-                <li>Item 2</li>
-                <li>Item 3</li>
+                <Item marca='exemplo1'/>
+                
             </ul>
         </div>
 
