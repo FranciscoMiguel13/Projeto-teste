@@ -5,7 +5,6 @@ function Frase(){
     return(
         <div className={styles.fraseContainer}>
             
-
             <p className={styles.fraseText}>
                 
                 Documento da Frase
