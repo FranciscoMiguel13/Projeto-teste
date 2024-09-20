@@ -4,7 +4,7 @@ import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
 import Frase from './components/Frase';
 import List from './components/List';
-
+import Evento from './components/Evento';
 function App() {
   
   return (
@@ -12,7 +12,7 @@ function App() {
     <div className="App">
      
       <HelloWorld/>
-      
+      <Evento nome1="José" nome2="Maria"/>
       <Frase/>
       <SayMyName nome="Francisco"/>
       <Pessoa 
@@ -20,7 +20,7 @@ function App() {
       foto='https://via.placeholder.com/150' 
       idade="18" 
       profissao="Programador" />
-      <List/>
+      <List />
       
     </div>
    
